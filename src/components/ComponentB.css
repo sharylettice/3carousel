@@ -1,0 +1,14 @@
+.btnExtend{
+    width: 60px;
+    height: 30px;
+    color: white;
+    background: #333;
+    border: none;
+    position: absolute;
+    top: 260px;
+    right: 10px;
+}
+.div{
+    background: #FFEB3B;
+    padding:20px 0;
+}
